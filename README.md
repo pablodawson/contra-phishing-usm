@@ -8,3 +8,5 @@ Para ocuparlo:
 -Rellenar el formulario del sitio, ver a donde va el request, copiar el "Request-link".
 -Pegar en la variable "link" del archivo "main.py".
 -Correr "main.py".
+
+Tener todo en la misma carpeta.
