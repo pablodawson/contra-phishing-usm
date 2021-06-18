@@ -34,7 +34,7 @@ while True:
     enviados+=1
     nombre=random.choice(nombres_l).lower()
     apellido=random.choice(apellidos_l).lower()
-    contrasena=str(random.randint(0,1000))+str(random.randint(0,1000))+random.choice(nombres_l)
+    contrasena=str(random.randint(0,1000))+random.choice(contrasenas_l)+str(random.randint(0,1000))
     mail=nombre+"."+apellido+"@usm.cl"
 
     datos= {
